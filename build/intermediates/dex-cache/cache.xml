@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\KALPESHWARAN\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.5\b0236b252e86419eef20c31a44579d2aee2f0a69\commons-lang-2.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b0236b252e86419eef20c31a44579d2aee2f0a69">
+        <dex dex="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\pre-dexed\debug\commons-lang-2.5-67fd9637d12506231a2e454b9827fd3e598b2fa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\KALPESHWARAN\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcprov-ext-jdk15on\1.50\22de1cb4809ee7e880ec1354f881fc4696de21ea\bcprov-ext-jdk15on-1.50.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="22de1cb4809ee7e880ec1354f881fc4696de21ea">
+        <dex dex="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\pre-dexed\debug\bcprov-ext-jdk15on-1.50-6590220941a045fcc5894a94fbc027a6dc326a77.jar" />
+    </item>
+    <item
+        jar="C:\Users\KALPESHWARAN\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.9\9ce04e34240f674bc72680f8b843b1457383161a\commons-codec-1.9.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\pre-dexed\debug\commons-codec-1.9-c31affae6b75d3991f72c6d306ddfbe5b4360c3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\KALPESHWARAN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-723e21ae1d9e4b863c33788610c16a278758cf16.jar" />
+    </item>
+    <item
+        jar="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\pre-dexed\debug\classes-457de56b732069f212eb76f90c98d24e5ea6d04c.jar" />
+    </item>
+    <item
+        jar="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\pre-dexed\debug\classes-671a0147041d49a0ee8505f0d5e075120ebad847.jar" />
+    </item>
+    <item
+        jar="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f84db4c1cc61a7a96429c06f91b0bebd91c1d254.jar" />
+    </item>
+    <item
+        jar="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\libs\android-3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0817f1674523473c819d733dc90176a315b5aaf">
+        <dex dex="C:\Users\KALPESHWARAN\AndroidStudioProjects\FoodExLogin\app\build\intermediates\pre-dexed\debug\android-3.1-dce7135ef5a9bd14d4dfba4c0a74a7921f4b3c2d.jar" />
+    </item>
+
+</items>
